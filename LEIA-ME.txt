@@ -1,0 +1,17 @@
+SITE INSTITUCIONAL — 67.814.695 Marcelo Augusto Bastiteslla Correa
+
+Arquivos:
+- index.html: página inicial
+- sobre.html: página Sobre
+- politica-de-privacidade.html: Política de Privacidade
+- termos-de-uso.html: Termos de Uso
+- styles.css: estilos personalizados
+- assets/: imagens fornecidas
+
+Como publicar:
+1. Extraia o ZIP mantendo a estrutura de pastas.
+2. Envie todos os arquivos e a pasta assets para a raiz pública da hospedagem.
+3. Abra o domínio para conferir index.html.
+
+O Bootstrap 5.3.3 e Bootstrap Icons são carregados por CDN; é necessário acesso à internet no navegador.
+Antes de anunciar: confirme os dados cadastrais e revise o texto jurídico com orientação profissional. A política descreve a versão atual sem formulário/cadastro; se instalar Google Analytics, Google Ads/remarketing, pixels, formulários ou outros serviços, atualize a política e configure consentimento/cookies conforme a legislação aplicável. As imagens são ilustrativas e não devem ser interpretadas como prova de frota, equipe, estrutura ou serviços específicos da empresa.
